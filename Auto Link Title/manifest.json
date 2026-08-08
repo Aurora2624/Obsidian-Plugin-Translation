@@ -3,7 +3,7 @@
   "name": "Auto Link Title",
   "version": "1.5.5",
   "minAppVersion": "0.12.17",
-  "description": "This plugin automatically fetches the titles of links from the web",
+  "description": "该插件会自动抓取网页链接的标题",
   "author": "Matt Furden",
   "authorUrl": "https://github.com/zolrath",
   "isDesktopOnly": false
