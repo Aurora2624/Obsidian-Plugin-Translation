@@ -3,7 +3,7 @@
 	"name": "Hider",
 	"version": "1.7.1",
 	"minAppVersion": "1.13.1",
-	"description": "Hide UI elements such as tooltips, status, titlebar and more.",
+	"description": "隐藏用户界面元素，例如工具提示、状态栏、标题栏等。",
 	"author": "kepano",
 	"authorUrl": "https://stephango.com/",
 	"isDesktopOnly": false
