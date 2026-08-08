@@ -3,7 +3,7 @@
     "name": "BRAT",
     "version": "2.2.0",
     "minAppVersion": "1.11.4",
-    "description": "Easily install plugin beta versions for testing.",
+    "description": "便捷安装插件测试版以供体验测试。",
     "author": "TfTHacker",
     "authorUrl": "https://github.com/TfTHacker",
     "helpUrl": "https://tfthacker.com/BRAT",
