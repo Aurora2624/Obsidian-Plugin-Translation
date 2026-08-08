@@ -3,7 +3,7 @@
   "name": "Highlightr",
   "version": "1.2.2",
   "minAppVersion": "0.12.8",
-  "description": "A minimal and aesthetically pleasing highlighting menu that makes color-coded highlighting much easier with a configurable assortment of highlight colors 🎨.",
+  "description": "一款简洁美观的高亮标记菜单，内置多种可自定义的高亮配色，大幅方便你用不同颜色对文本进行分类标记。🎨.",
   "author": "chetachi",
   "authorUrl": "https://github.com/chetachiezikeuzor",
   "isDesktopOnly": false
