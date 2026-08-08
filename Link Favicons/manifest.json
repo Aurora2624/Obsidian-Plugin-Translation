@@ -3,7 +3,7 @@
 	"name": "Link Favicons",
 	"version": "1.8.5",
 	"minAppVersion": "1.12.0",
-	"description": "See the favicon for a linked website. ",
+	"description": "显示链接网页的网站图标。 ",
 	"author": "Johannes Theiner",
 	"authorUrl": "https://github.com/joethei",
 	"isDesktopOnly": false
